@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internationalisierungs und Ressourcenarchive</string>
+    <string name="brasil">Deutschland</string>
+    <string name="flag">Flagge Deutschlands</string>
+    <string name="food">Würste und Bier</string>
+</resources>

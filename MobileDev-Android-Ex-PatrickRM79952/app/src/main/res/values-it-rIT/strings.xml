@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Esercizio di internazionalizzazione e archivi di risorse</string>
+    <string name="brasil">Italia</string>
+    <string name="flag">Bandiera dell\'Italia</string>
+    <string name="food">Spaghetti</string>
+</resources>

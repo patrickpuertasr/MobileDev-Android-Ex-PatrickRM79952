@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国际化演习和资源档案</string>
+    <string name="brasil">中国</string>
+    <string name="flag">中国国旗</string>
+    <string name="food">狗</string>
+</resources>

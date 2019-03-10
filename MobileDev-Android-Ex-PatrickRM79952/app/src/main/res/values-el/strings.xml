@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Εξάσκηση διεθνοποίησης και αρχεία πόρων</string>
+    <string name="brasil">" ελλάδα"</string>
+    <string name="flag">Σημαία της Ελλάδας</string>
+    <string name="food">πατάτες και κοτόπουλο</string>
+</resources>

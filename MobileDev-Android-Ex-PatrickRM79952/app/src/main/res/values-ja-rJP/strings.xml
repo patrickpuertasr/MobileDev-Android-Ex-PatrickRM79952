@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">国際化演習とリソースアーカイブ</string>
+    <string name="brasil">日本</string>
+    <string name="flag">日本の国旗</string>
+    <string name="food">" 餃子、魚、野菜"</string>
+</resources>
